@@ -476,6 +476,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- [minipainter](https://github.com/ArturSkowronski/minipainter) - Local-first miniature-paint inventory and cross-brand color matching across Citadel, Army Painter, Vallejo, and AK Interactive. Grounds an agent’s paint picks in the pots you actually own; 7 tools over stdio. Run: `npx -y -p minipainter minipainter-mcp`.
 
 <br />
 
